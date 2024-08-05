@@ -1,0 +1,106 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lerom, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1719204888~exp=1719205488~hmac=c214de158c64865d21ce5f0bfa6b894539a2d2cadc179f8a63e6e2ba2ce702ef"
+    },
+    {
+        "id":2,
+        "name":"Story Book",
+        "title":"Lerom, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1719204888~exp=1719205488~hmac=c214de158c64865d21ce5f0bfa6b894539a2d2cadc179f8a63e6e2ba2ce702ef"
+    },
+    {
+        "id":3,
+        "name":"Story Book",
+        "title":"Lerom, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1719204888~exp=1719205488~hmac=c214de158c64865d21ce5f0bfa6b894539a2d2cadc179f8a63e6e2ba2ce702ef"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"Lerom, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1719204888~exp=1719205488~hmac=c214de158c64865d21ce5f0bfa6b894539a2d2cadc179f8a63e6e2ba2ce702ef"
+    },
+    {
+        "id":5,
+        "name":"Food Book",
+        "title":"Lerom, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":200,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1719204888~exp=1719205488~hmac=c214de158c64865d21ce5f0bfa6b894539a2d2cadc179f8a63e6e2ba2ce702ef"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"Lerom, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1719204888~exp=1719205488~hmac=c214de158c64865d21ce5f0bfa6b894539a2d2cadc179f8a63e6e2ba2ce702ef"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Lerom, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1719204888~exp=1719205488~hmac=c214de158c64865d21ce5f0bfa6b894539a2d2cadc179f8a63e6e2ba2ce702ef"
+    },
+    {
+        "id":8,
+        "name":"Song Book",
+        "title":"Lerom, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":40,
+        "category":"Music",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1719204888~exp=1719205488~hmac=c214de158c64865d21ce5f0bfa6b894539a2d2cadc179f8a63e6e2ba2ce702ef"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"Lerom, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1719204888~exp=1719205488~hmac=c214de158c64865d21ce5f0bfa6b894539a2d2cadc179f8a63e6e2ba2ce702ef"
+    },
+    {
+        "id":10,
+        "name":"Sport Book",
+        "title":"Lerom, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":50,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1719204888~exp=1719205488~hmac=c214de158c64865d21ce5f0bfa6b894539a2d2cadc179f8a63e6e2ba2ce702ef"
+    },
+    {
+        "id":11,
+        "name":"Story Book",
+        "title":"Lerom, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1719204888~exp=1719205488~hmac=c214de158c64865d21ce5f0bfa6b894539a2d2cadc179f8a63e6e2ba2ce702ef"
+    },
+    {
+        "id":12,
+        "name":"Comady Book",
+        "title":"Lerom, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":20,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1719204888~exp=1719205488~hmac=c214de158c64865d21ce5f0bfa6b894539a2d2cadc179f8a63e6e2ba2ce702ef"
+    },
+    {
+        "id":13,
+        "name":"Story Book",
+        "title":"Lerom, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1719204888~exp=1719205488~hmac=c214de158c64865d21ce5f0bfa6b894539a2d2cadc179f8a63e6e2ba2ce702ef"
+    }
+]
